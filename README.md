@@ -4,6 +4,7 @@ A Poisson count model regression using the 2017 US National Health Interview Sur
 
 Technologies used 
   - R
+
 Techniques used
   - Generalized Linear Models
   - Poisson Count Regression
